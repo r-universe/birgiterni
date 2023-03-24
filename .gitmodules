@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "moult"]
+	path = moult
+	url = https://github.com/cran/moult
+	shallow = true
+	registered = true
